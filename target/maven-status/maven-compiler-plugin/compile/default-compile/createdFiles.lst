@@ -1,0 +1,8 @@
+Main.class
+models\services\IWeatherObserver.class
+models\WeatherInfo.class
+models\Config.class
+models\services\WeatherService.class
+controllers\Controller.class
+controllers\Controller$1.class
+models\services\HttpService.class
